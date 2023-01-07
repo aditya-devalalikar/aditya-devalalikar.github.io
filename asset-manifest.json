@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aditya-devalalikar.github.io/static/css/main.6b48ab4f.css",
+    "main.js": "/aditya-devalalikar.github.io/static/js/main.b2b1bf73.js",
+    "static/js/787.28cb0dcd.chunk.js": "/aditya-devalalikar.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/aditya-devalalikar.github.io/index.html",
+    "main.6b48ab4f.css.map": "/aditya-devalalikar.github.io/static/css/main.6b48ab4f.css.map",
+    "main.b2b1bf73.js.map": "/aditya-devalalikar.github.io/static/js/main.b2b1bf73.js.map",
+    "787.28cb0dcd.chunk.js.map": "/aditya-devalalikar.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b48ab4f.css",
+    "static/js/main.b2b1bf73.js"
+  ]
+}
