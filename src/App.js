@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <nav>
+      <nav className="bg-slate-100">
         <div>
           <h1>Aditya Sudhir Devalalikar</h1>
         </div>
@@ -14,10 +14,17 @@ function App() {
           <li>Contact</li>
         </ul>
       </nav>
-      <div className="hero">
-        <h1 className="header">
-          Home Page
-        </h1>
+      <div className="content-flex bg-slate-200">
+        <h1> Home </h1>
+      </div>
+      <div className="content-flex bg-slate-300">
+        <h1> About </h1>
+      </div>
+      <div className="content-flex bg-slate-400">
+        <h1> Skills </h1>
+      </div>
+      <div className="content-flex bg-slate-500">
+        <h1> Contact </h1>
       </div>
     </div>
   );

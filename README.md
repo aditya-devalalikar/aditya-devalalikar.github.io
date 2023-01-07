@@ -1,2 +1,6 @@
 # react.js-app
-- React JS web application
+- My Profile Page
+    -> Home
+    -> About
+    -> Skills
+    -> Contact
